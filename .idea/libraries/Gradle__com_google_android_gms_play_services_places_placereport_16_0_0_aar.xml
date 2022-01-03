@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-places-placereport:16.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/fe6ff5e5f354447d67abd48765da73b6/transformed/jetified-play-services-places-placereport-16.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/fe6ff5e5f354447d67abd48765da73b6/transformed/jetified-play-services-places-placereport-16.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/fe6ff5e5f354447d67abd48765da73b6/transformed/jetified-play-services-places-placereport-16.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/fe6ff5e5f354447d67abd48765da73b6/transformed/jetified-play-services-places-placereport-16.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/fe6ff5e5f354447d67abd48765da73b6/transformed/jetified-play-services-places-placereport-16.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/fe6ff5e5f354447d67abd48765da73b6/transformed/jetified-play-services-places-placereport-16.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

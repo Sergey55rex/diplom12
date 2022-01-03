@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.sqlite:sqlite:2.1.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/689c500b374d069503d7a839cc8d0478/transformed/sqlite-2.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/689c500b374d069503d7a839cc8d0478/transformed/sqlite-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/689c500b374d069503d7a839cc8d0478/transformed/sqlite-2.1.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/689c500b374d069503d7a839cc8d0478/transformed/sqlite-2.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/689c500b374d069503d7a839cc8d0478/transformed/sqlite-2.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/689c500b374d069503d7a839cc8d0478/transformed/sqlite-2.1.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../EasyAdapter-master/caches/modules-2/files-2.1/androidx.sqlite/sqlite/2.1.0/2eae21d439cee2aae76bf35e061e60335bc644f7/sqlite-2.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../EasyAdapter-master/caches/modules-2/files-2.1/androidx.sqlite/sqlite/2.1.0/2eae21d439cee2aae76bf35e061e60335bc644f7/sqlite-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

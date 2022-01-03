@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.savedstate:savedstate-ktx:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/d718a0bddbd4d2320c25dd3f7009f26d/transformed/jetified-savedstate-ktx-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/d718a0bddbd4d2320c25dd3f7009f26d/transformed/jetified-savedstate-ktx-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/d718a0bddbd4d2320c25dd3f7009f26d/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/d718a0bddbd4d2320c25dd3f7009f26d/transformed/jetified-savedstate-ktx-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/d718a0bddbd4d2320c25dd3f7009f26d/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/d718a0bddbd4d2320c25dd3f7009f26d/transformed/jetified-savedstate-ktx-1.1.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../EasyAdapter-master/caches/modules-2/files-2.1/androidx.savedstate/savedstate-ktx/1.1.0/9292f5a5bc3895f9759d7b6f30291743c1187698/savedstate-ktx-1.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../EasyAdapter-master/caches/modules-2/files-2.1/androidx.savedstate/savedstate-ktx/1.1.0/9292f5a5bc3895f9759d7b6f30291743c1187698/savedstate-ktx-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

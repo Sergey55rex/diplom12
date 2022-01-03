@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.fragment:fragment:1.4.0-alpha06@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/8a70d890c6de969966f23eb79c25f3c9/transformed/fragment-1.4.0-alpha06/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/8a70d890c6de969966f23eb79c25f3c9/transformed/fragment-1.4.0-alpha06/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/8a70d890c6de969966f23eb79c25f3c9/transformed/fragment-1.4.0-alpha06/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/8a70d890c6de969966f23eb79c25f3c9/transformed/fragment-1.4.0-alpha06/res" />
+      <root url="file://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/8a70d890c6de969966f23eb79c25f3c9/transformed/fragment-1.4.0-alpha06/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/8a70d890c6de969966f23eb79c25f3c9/transformed/fragment-1.4.0-alpha06/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/8a70d890c6de969966f23eb79c25f3c9/transformed/fragment-1.4.0-alpha06/res" />
+      <root url="file://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/8a70d890c6de969966f23eb79c25f3c9/transformed/fragment-1.4.0-alpha06/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../EasyAdapter-master/caches/modules-2/files-2.1/androidx.fragment/fragment/1.4.0-alpha06/5f20c668de1756869790f8a6e6fb8fd8c3777476/fragment-1.4.0-alpha06-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../EasyAdapter-master/caches/modules-2/files-2.1/androidx.fragment/fragment/1.4.0-alpha06/5f20c668de1756869790f8a6e6fb8fd8c3777476/fragment-1.4.0-alpha06-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

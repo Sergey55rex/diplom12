@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.room:room-ktx:2.3.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/1b029b145b214cf82217035e18a4b76b/transformed/jetified-room-ktx-2.3.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/1b029b145b214cf82217035e18a4b76b/transformed/jetified-room-ktx-2.3.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/1b029b145b214cf82217035e18a4b76b/transformed/jetified-room-ktx-2.3.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/1b029b145b214cf82217035e18a4b76b/transformed/jetified-room-ktx-2.3.0/res" />
+      <root url="file://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/1b029b145b214cf82217035e18a4b76b/transformed/jetified-room-ktx-2.3.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/1b029b145b214cf82217035e18a4b76b/transformed/jetified-room-ktx-2.3.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../EasyAdapter-master/caches/modules-2/files-2.1/androidx.room/room-ktx/2.3.0/f8b846b2835c246c1a1181674e9f44e6d6485913/room-ktx-2.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../EasyAdapter-master/caches/modules-2/files-2.1/androidx.room/room-ktx/2.3.0/f8b846b2835c246c1a1181674e9f44e6d6485913/room-ktx-2.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

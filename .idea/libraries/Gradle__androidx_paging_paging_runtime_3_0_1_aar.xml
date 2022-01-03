@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.paging:paging-runtime:3.0.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/cac2efadb49ff462f0d95a96fccf59a3/transformed/paging-runtime-3.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/cac2efadb49ff462f0d95a96fccf59a3/transformed/paging-runtime-3.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/cac2efadb49ff462f0d95a96fccf59a3/transformed/paging-runtime-3.0.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/cac2efadb49ff462f0d95a96fccf59a3/transformed/paging-runtime-3.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/cac2efadb49ff462f0d95a96fccf59a3/transformed/paging-runtime-3.0.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/cac2efadb49ff462f0d95a96fccf59a3/transformed/paging-runtime-3.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../EasyAdapter-master/caches/modules-2/files-2.1/androidx.paging/paging-runtime/3.0.1/3f760e04314145c7b7f4462304ada16d2ac042af/paging-runtime-3.0.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../EasyAdapter-master/caches/modules-2/files-2.1/androidx.paging/paging-runtime/3.0.1/3f760e04314145c7b7f4462304ada16d2ac042af/paging-runtime-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

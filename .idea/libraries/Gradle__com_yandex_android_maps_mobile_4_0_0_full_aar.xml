@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yandex.android:maps.mobile:4.0.0-full@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/b54fffd70788cb5d8759950ab4bd3c49/transformed/jetified-maps.mobile-4.0.0-full/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/b54fffd70788cb5d8759950ab4bd3c49/transformed/jetified-maps.mobile-4.0.0-full/res" />
+      <root url="file://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/b54fffd70788cb5d8759950ab4bd3c49/transformed/jetified-maps.mobile-4.0.0-full/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/b54fffd70788cb5d8759950ab4bd3c49/transformed/jetified-maps.mobile-4.0.0-full/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/b54fffd70788cb5d8759950ab4bd3c49/transformed/jetified-maps.mobile-4.0.0-full/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/b54fffd70788cb5d8759950ab4bd3c49/transformed/jetified-maps.mobile-4.0.0-full/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

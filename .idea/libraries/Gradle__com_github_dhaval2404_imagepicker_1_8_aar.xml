@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.dhaval2404:imagepicker:1.8@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/bc3ed3ef9aca0bc6aa6e69fcad15179c/transformed/jetified-imagepicker-1.8/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/bc3ed3ef9aca0bc6aa6e69fcad15179c/transformed/jetified-imagepicker-1.8/res" />
+      <root url="file://$PROJECT_DIR$/../../../EasyAdapter-master/caches/transforms-3/bc3ed3ef9aca0bc6aa6e69fcad15179c/transformed/jetified-imagepicker-1.8/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/bc3ed3ef9aca0bc6aa6e69fcad15179c/transformed/jetified-imagepicker-1.8/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/bc3ed3ef9aca0bc6aa6e69fcad15179c/transformed/jetified-imagepicker-1.8/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../EasyAdapter-master/caches/transforms-3/bc3ed3ef9aca0bc6aa6e69fcad15179c/transformed/jetified-imagepicker-1.8/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../EasyAdapter-master/caches/modules-2/files-2.1/com.github.dhaval2404/imagepicker/1.8/35757beaf6fa8af53f9236ca58a0de7ae005a3dc/imagepicker-1.8-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../EasyAdapter-master/caches/modules-2/files-2.1/com.github.dhaval2404/imagepicker/1.8/35757beaf6fa8af53f9236ca58a0de7ae005a3dc/imagepicker-1.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../EasyAdapter-master/caches/modules-2/files-2.1/com.github.dhaval2404/imagepicker/1.8/91e6952c4aee3e6e7ab002fa085fbf17384b76e8/imagepicker-1.8-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../EasyAdapter-master/caches/modules-2/files-2.1/com.github.dhaval2404/imagepicker/1.8/91e6952c4aee3e6e7ab002fa085fbf17384b76e8/imagepicker-1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
